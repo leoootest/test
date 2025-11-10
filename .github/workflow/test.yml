@@ -1,0 +1,7 @@
+name: test
+on:
+  posh:
+jobs:
+  test:
+    runs-on: runs-on: ubuntu-latest
+    steps: env
